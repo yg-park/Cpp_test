@@ -1,0 +1,136 @@
+	<1장 - c++시작>
+C++ 사용이유
+1. 오버로딩 : 함수 중복 가능(이름이 같을 때 받는 인자가 달라도 둘 다 사용 가능, c는 불가능/sum(int, int), sum(float, float))
+2. 오버라이딩 : 상속받은 것을 선택해서 사용
+3. 상속 c view class 를 상속받음
+4. 클래스
+
+c : printf
+c++ : c in c out
+
+#define _CRT_SECURE_NO_WARNINGS
+맨 위에 추가하기
+
+#include <iostream>를 추가하기
+
+std::cout
+
+ver.2019부터 보안의 이유로
+scanf(엔터까지 한 문장으로 인식) > scanf_s(몇 문자인지 써야함)
+
+mfc로 rfid프로젝트 예정
+도서관, 포도주 관리 등
+
+cortex m4 특징 알기
+마리아DB 설치하기
+(개별학습하기)
+
+cafe.daum.net/vrdream
+wckang@korcham.net
+강원찬 교수님(네이버 검색하면 논문만 80개정도 나옴)
+csv (c에서 엑셀 파일 읽기)
+
+= : c에서 자료형 같아야 함 / 파이썬 알아서 해줌
+
+c에서 포인터 ㅡ> c++ 참조변수
+c에서 maloc/free ㅡ> new/delete
+
+캡슐화
+struct 대신 class가 생김
+변수는 직접 접근 제한
+제안자 : private
+같이 사용하려면 :  Public
+변수와 함수(변수를 입출력)가 같이 들어있음
+
+상속
+ppt 전화 부분 참고
+' , ' 연산자로 여러개를 상속 받을 수는 있다
+그런데 같은 것이 여러개 될 수 있으니까 거의 불필요하다
+
+다형성
+1+2=3
+A+B=AB
+red+blue=purple
+
+SDK : 메인 함수 1개
+MFC : 메인 x, 메시지에 따라 실행, 순서 x
+
+sln : solution의 약자
+vcxproj : c 버전 프로젝트
+cpp
+
+{ 예전 버전 }
+dsw
+dsp
+cpp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+﻿  cafe.cpp
+C:\work\cafe\cafe_menu.h(8,17): error C2011: 'cafe_menu': 'class' 형식 재정의
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(30,11): error C2079: 'menu'은(는) 정의되지 않은 class 'cafe_menu'을(를) 사용합니다.
+C:\work\cafe\cafe_menu.h(30,11): error C2040: 'menu': 'int'의 간접 참조 수준이 'cafe_menu [12]'과(와) 다릅니다.
+C:\work\cafe\cafe_menu.h(31,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(32,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(33,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(34,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(35,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(36,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(37,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(38,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(39,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(40,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(41,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe_menu.h(42,11): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe.cpp(11,9): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe.cpp(43,31): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+C:\work\cafe\cafe.cpp(58,18): error C2027: 정의되지 않은 형식 'cafe_menu'을(를) 사용했습니다.
+C:\work\cafe\cafe_menu.h(8,7): message : 'cafe_menu' 선언을 참조하십시오.
+  cafe_menu.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
